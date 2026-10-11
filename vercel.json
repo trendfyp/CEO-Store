@@ -1,7 +1,3 @@
 {
-  "version": 2,
-  "buildCommand": null,
-  "outputDirectory": ".",
-  "cleanUrls": true
+  "installCommand": "npm install --omit=dev --no-audit --no-fund"
 }
-
